@@ -1,0 +1,40 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.main-visual{
+	width:100%;
+	height: 400px;
+	background-image: url(img/mv.jpg);
+	background-position: bottom;
+	background-size: cover;
+}
+.main-visual-text{
+	padding: 20px;
+}
+main{
+	width: 840px;
+	margin: 50px auto;
+}
+.blog{
+	margin-bottom: 30px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+}
+.blog2{
+	margin-bottom: 30px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+}
+.blog3{
+	margin-bottom: 30px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+}
+.blog4{
+	margin-bottom: 30px;
+	border-bottom: 1px solid #d1d1d1;
+	padding-bottom: 30px;
+}
